@@ -32,5 +32,5 @@ public class ValidacionFormReg {
         }
         return result;
     }
-
+    //comentario
 }
